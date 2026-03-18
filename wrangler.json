@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4c1091ac-65b1-4eea-b756-ad8ed4072548",
+			"database_name": "mail_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
